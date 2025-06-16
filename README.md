@@ -1,7 +1,7 @@
 # 🧠 LexRank News Summarizer
-
 This project implements an AI-powered summarization tool using the **LexRank** algorithm to condense long-form news articles into concise, informative summaries. It is designed for performance, clarity, and compatibility with Kaggle notebooks and low-resource machines.
 
+Link to the [Kaggle Notebook](https://www.kaggle.com/code/billubodmas/ai-new-sumarrizer-using-lexrank)
 ---
 
 ## 📚 Dataset
@@ -29,10 +29,8 @@ This project implements an AI-powered summarization tool using the **LexRank** a
 
 ## 🛠️ Tools & Technologies
 
-- Python, Kaggle Notebook
-- `pandas`, `sumy`, `matplotlib`
-- Optional: `nltk` for tokenizer support
-
----
-
-> 📌 This project was developed as part of a portfolio for academic and research opportunities in AI and NLP.
+- **Python**, Kaggle Notebook  
+- **`pandas`** — *for efficient data manipulation and analysis*  
+- **`sumy`** — *for extractive summarization using the LexRank algorithm*  
+- **`matplotlib`** — *for creating visualizations and comparative plots*  
+- Optional: **`nltk`** — *for tokenizer support*
